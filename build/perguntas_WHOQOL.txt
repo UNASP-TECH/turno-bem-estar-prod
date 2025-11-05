@@ -1,0 +1,26 @@
+1. Como você avaliaria sua qualidade de vida?
+2. Quão satisfeito(a) você está com a sua saúde?
+3. Em que medida você acha que sua dor (física) impede você de fazer o que você precisa?
+4. O quanto você precisa de algum tratamento médico para levar sua vida diária?
+5. O quanto você aproveita a vida?
+6. Em que medida você acha que a sua vida tem sentido?
+7. O quanto você consegue se concentrar?
+8. Quão seguro(a) você se sente em sua vida diária?
+9. Quão saudável é o seu ambiente físico (clima, barulho, poluição, atrativos)?
+10. Você tem energia suficiente para seu dia-a-dia?
+11. Você é capaz de aceitar sua aparência física?
+12. Você tem dinheiro suficiente para satisfazer suas necessidades?
+13. Quão disponíveis para você estão as informações que precisa no seu dia-a-dia?
+14. Em que medida você tem oportunidades de atividade de lazer?
+15. Quão bem você é capaz de se locomover?
+16. Quão satisfeito(a) você está com o seu sono?
+17. Quão satisfeito(a) você está com sua capacidade de desempenhar as atividades do seu dia-a-dia?
+18. Quão satisfeito(a) você está com sua capacidade para o trabalho?
+19. Quão satisfeito(a) você está consigo mesmo?
+20. Quão satisfeito(a) você está com suas relações pessoais (amigos, parentes, conhecidos, colegas)?
+21. Quão satisfeito(a) você está com sua vida sexual?
+22. Quão satisfeito(a) você está com o apoio que você recebe de seus amigos?
+23. Quão satisfeito(a) você está com as condições do local onde mora?
+24. Quão satisfeito(a) você está com o seu acesso aos serviços de saúde?
+25. Quão satisfeito(a) você está com o seu meio de transporte?
+26. Com que freqüência você tem sentimentos negativos tais como mau humor, desespero, ansiedade, depressão?
