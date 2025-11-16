@@ -1,0 +1,123 @@
+/* Estilo do container principal (igual aos forms) */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: calc(100vh - 40px);
+    padding: 20px;
+  }
+  
+  .resultado-form {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    width: 100%;
+    max-width: 600px;
+    border: 1px solid #e0e0e0;
+  }
+  
+  /* Cabeçalho */
+  .resultado-titulo {
+    color: #102d4f;
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 1.8rem;
+    border-bottom: 2px solid #f0f0f0;
+    padding-bottom: 15px;
+  }
+  
+  /* Pontuação */
+  .resultado-pontuacao {
+    text-align: center;
+    margin: 25px 0;
+  }
+  
+  .pontuacao-valor {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #102d4f;
+    margin: 15px 0;
+  }
+  
+  /* Classificação */
+  .resultado-classificacao {
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 30px 0;
+  }
+  
+  .classificacao {
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 15px auto;
+    max-width: 200px;
+  }
+  
+  /* Cores da classificação */
+  .excelente {
+    background-color: #28a745;
+    color: white;
+  }
+  .muito-bom {
+    background-color: #17a2b8;
+    color: white;
+  }
+  .bom {
+    background-color: #ffc107;
+    color: #212529;
+  }
+  .regular {
+    background-color: #fd7e14;
+    color: white;
+  }
+  .insuficiente {
+    background-color: #dc3545;
+    color: white;
+  }
+  
+  /* Legenda */
+  .legenda {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-top: 20px;
+    text-align: left;
+    font-size: 0.9rem;
+  }
+  
+  .legenda span {
+    margin-right: 8px;
+    font-size: 1.2rem;
+    vertical-align: middle;
+  }
+  
+  /* Botão */
+  .botao-recomecar {
+    background-color: #102d4f;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    width: 100%;
+    max-width: 300px;
+    margin: 30px auto 0;
+    transition: all 0.3s ease;
+    font-weight: 500;
+  }
+  
+  .botao-recomecar:hover {
+    background-color: #0a1f3a;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .botao-recomecar:active {
+    transform: translateY(0);
+  }

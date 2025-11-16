@@ -1,0 +1,12 @@
+# escala
+grupo1: muito ruim ; ruim ; nem ruim nem boa ; boa ; muito boa
+grupo2: muito insatisfeito  ; insatisfeito ; nem satisfeito nem insatisfeito ; satisfeito ; muito satisfeito
+grupo3: nada ; muito pouco ; mais ou menos ; bastante ; extremamente
+grupo4: nada ; muito pouco ; médio ; muito ; completamente
+grupo5: muito ruim ; ruim ; nem ruim nem bom ; bom ; muito bom
+grupo6: muito insatisfeito ; insatisfeito ; nem satisfeito nem insatisfeito ; satisfeito ; muito satisfeito
+grupo7: nunca ; algumas vezes ; freqüentemente ; muito freqüentemente ; sempre
+
+
+# pontuacao
+1 ; 2 ; 3 ; 4 ; 5

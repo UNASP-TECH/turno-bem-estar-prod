@@ -1,0 +1,10 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem; /* Espaço entre os elementos */
+    padding: 1rem;
+  }
+  
+  .home-message {
+    margin-bottom: 1rem; /* Espaço adicional entre as mensagens */
+  }

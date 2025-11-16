@@ -1,0 +1,22 @@
+1. Com que frequência você inclui nas principais refeições do dia: feijões, cereais integrais, castanhas, frutas, legumes e verduras?
+2. Como você se classifica no que se refere ao tipo de alimento que você mais consome?
+3. Quantos dos itens a seguir você consome uma ou mais vezes por semana? (salgadinhos, bolachas, frituras, refrigerantes e doces de maneira geral)
+4. Você pratica atividades de lazer, tais como caminhar, pedalar, jogar bola, esportes radicais ou outros hobbies e atividades prazerosas?
+5. Quantas vezes por semana você pratica exercício físico intenso (que faz suar e aumentar os batimentos cardíacos, como caminhada longa, corrida, bicicleta, etc)?
+6. Quantos minutos você gasta "em média" quando faz exercícios intensos até sua?
+7. Quantos copos (250 ml) de água você bebe diariamente?
+8. Você utiliza a água como remédio para tratamentos caseiros quando necessário?
+9. Com que frequência você se expõe ao sol pelo menos 15 a 20 minutos por dia?
+10. Em sua casa, as janelas e persianas são abertas diariamente para que entrem sol e luz natural?
+11. Você ingere bebida alcóolica (cerveja, vinho, licor, aguardente, pinga ou qualquer outra)?
+12. Você fuma cigarro, charuto, cachimbo ou qualquer outro tipo de tabaco?
+13. Você fez uso de alguma droga, tipo maconha, crack, cocaína, etc nos últimos três meses?
+14. Você ingere bebidas que contém cafeína (café, chá preto, chá verde, chá mate, chá branco ou refrigerantes)?
+15. Considerando os lugares onde passa a maior parte do tempo, como você classifica a qualidade do ar que respira?
+16. Você faz respiração profunda ao ar livre ou quando precisa controlar a tensão e a ansiedade?
+17. Você dorme de 7 a 8 horas por noite e acorda descansado(a) e com boa disposição na maioria das vezes?
+18. Você costuma dormir cedo (por volta das 22h ou antes desse horário)?
+19. Você confia em Deus (em um Ser Superior ou algo sagrado)?
+20. Sua confiança em Deus (Ser Superior ou algo sagrado) influencia positivamente sua maneira de viver?
+21. Com que frequência você participa de reuniões religiosas ou espirituais?
+22. Você pratica atividades religiosas ou espirituais em sua vida particular (meditar, rezar ou orar, ler a Bíblia ou livros religiosos, se voluntariar, fazer caridade, etc.)?
