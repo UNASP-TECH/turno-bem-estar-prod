@@ -1,0 +1,54 @@
+# Grupos de respostas por tipo de pergunta
+
+# Nutrição
+grupo1: Quase nunca ; Raramente ; Algumas vezes ; Muitas vezes ; Sempre
+grupo6: Não vegetariano: Consome carne de tipos variados mais de 1 vez por semana ; Semi Vegetariano: Consome carne de tipos variados no máximo 1 vez por semana ; Pesco Vegetariano: Consome carne, frango e outras aves menos de 1 vez por mês, e consome peixe mais de 1 vez por mês ; Ovolacto Vegetariano: Consome laticínios e ovos mais que 1 vez por mês e peixes e carnes menos que 1 vez por mês ; Vegetariano estrito: Consome leite, queijo, ovos, peixe ou carne no máximo 1 vez por mês ou menos
+grupo8: Quatro a cinco itens ; Três itens ; Dois itens ; Um item ; Nenhum
+
+# Exercício
+grupo2: Nunca ; Raramente ; Algumas vezes ; Muitas vezes ; Sempre
+grupo9: Nunca ; Menos de 1 vez por semana ; 1 a 2 vezes por semana ; 3 a 4 vezes por semana ; 5 vezes ou mais por semana
+grupo4: Nenhum, não faço ; 5 a 10 minutos ; 10 a 20 minutos ; 21 a 30 minutos ; 30 a 60 minutos
+
+# Água
+grupo3: Nenhum ; 1 a 3 copos ; 4 a 6 copos ; 7 copos ; 8 ou mais
+
+# Sol
+grupo10: Nunca ; Quase nunca ; Algumas vezes ; Muitas vezes ; Sempre
+
+# Temperança (dicotômico)
+grupo5: Sim ; Não
+
+# Ar Puro
+grupo7: Muito ruim ; Ruim ; Regular ; Boa ; Muito boa
+
+# Confiança (espiritualidade)
+grupo11: Raramente ou nunca ; Algumas vezes por ano ; Duas a três vezes por mês ; Uma vez por semana ; Mais de 1 vez por semana
+grupo12: Raramente ou nunca ; Poucas vezes por mês ; Duas ou mais vezes por semana ; 1 vez ao dia ; Mais de uma vez ao dia
+
+# Pontuação padrão (0–4)
+0 ; 1 ; 2 ; 3 ; 4
+
+# Mapeamento de perguntas para grupos
+1: grupo1
+2: grupo6
+3: grupo8
+4: grupo2
+5: grupo9
+6: grupo4
+7: grupo3
+8: grupo2
+9: grupo10
+10: grupo10
+11: grupo5
+12: grupo5
+13: grupo5
+14: grupo5
+15: grupo7
+16: grupo2
+17: grupo10
+18: grupo10
+19: grupo10
+20: grupo10
+21: grupo11
+22: grupo12
