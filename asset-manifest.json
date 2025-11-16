@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/turno-bem-estar-prod/static/css/main.c2c16a5a.css",
-    "main.js": "/turno-bem-estar-prod/static/js/main.e5b9aaa1.js",
+    "main.js": "/turno-bem-estar-prod/static/js/main.78925103.js",
     "static/js/488.4d201857.chunk.js": "/turno-bem-estar-prod/static/js/488.4d201857.chunk.js",
     "index.html": "/turno-bem-estar-prod/index.html",
     "main.c2c16a5a.css.map": "/turno-bem-estar-prod/static/css/main.c2c16a5a.css.map",
-    "main.e5b9aaa1.js.map": "/turno-bem-estar-prod/static/js/main.e5b9aaa1.js.map",
+    "main.78925103.js.map": "/turno-bem-estar-prod/static/js/main.78925103.js.map",
     "488.4d201857.chunk.js.map": "/turno-bem-estar-prod/static/js/488.4d201857.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2c16a5a.css",
-    "static/js/main.e5b9aaa1.js"
+    "static/js/main.78925103.js"
   ]
 }
